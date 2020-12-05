@@ -30,6 +30,8 @@ class MoviesContainer extends React.Component {
         })
     }
 
+    
+
     render() {
         const {movies, index} = this.state
 
