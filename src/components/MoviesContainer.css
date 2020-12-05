@@ -1,0 +1,6 @@
+.movies-container {
+    height: 90vh;
+    border: solid 2px red;
+    display: flex;
+    justify-content: space-around;
+}

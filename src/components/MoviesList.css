@@ -1,0 +1,6 @@
+.movies-list {
+    height: 90%;
+    width: 45%;
+    border: solid 2px blueviolet;
+    overflow-y: scroll;
+}
